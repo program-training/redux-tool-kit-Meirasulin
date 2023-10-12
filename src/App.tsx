@@ -1,12 +1,8 @@
-import './App.css'
+import "./App.css";
+import Main from "./exercise/Component/Main";
 
 function App() {
-
-  return (
-    <>
-      <div>hello !</div>
-    </>
-  )
+  return <Main />;
 }
 
-export default App
+export default App;
